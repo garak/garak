@@ -9,3 +9,4 @@ I love:
 * Spending time with friends & family
 * Going to gym (that's a lie: I hate it. But it's a necessary evil)
 
+[![my Holopin badges](https://holopin.me/garak)](https://holopin.io/@garak)
