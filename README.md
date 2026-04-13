@@ -10,6 +10,6 @@ I love:
 * Going to the gym (that's a lie: I hate it. But it's a necessary evil)
 
 
-![Garak's GitHub stats](https://github-readme-stats.vercel.app/api?username=garak&show_icons=true)
+<img alt="Garak's GitHub statis" src="https://gh-readme-profile.vercel.app/api?username=garak" alt="">
 
 [![my Holopin badges](https://holopin.me/garak)](https://holopin.io/@garak)
